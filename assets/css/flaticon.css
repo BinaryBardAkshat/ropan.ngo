@@ -1,0 +1,133 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon2a642a64.ttf?6c81acffbaea668c38df4286a10550b3") format("truetype"),
+url("../fonts/flaticon2a642a64.woff?6c81acffbaea668c38df4286a10550b3") format("woff"),
+url("../fonts/flaticon2a642a64.woff2?6c81acffbaea668c38df4286a10550b3") format("woff2"),
+url("../fonts/flaticon2a642a64.eot?6c81acffbaea668c38df4286a10550b3#iefix") format("embedded-opentype"),
+url("../fonts/flaticon2a642a64.svg?6c81acffbaea668c38df4286a10550b3#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+i[class*="flaticon-"] {
+    display: block;
+    line-height: 0;
+}
+
+.flaticon-tape-measure:before {
+    content: "\f101";
+}
+.flaticon-abs:before {
+    content: "\f102";
+}
+.flaticon-weight:before {
+    content: "\f103";
+}
+.flaticon-test:before {
+    content: "\f104";
+}
+.flaticon-layout:before {
+    content: "\f105";
+}
+.flaticon-search:before {
+    content: "\f106";
+}
+.flaticon-shopping-cart:before {
+    content: "\f107";
+}
+.flaticon-shopping-cart-1:before {
+    content: "\f108";
+}
+.flaticon-left-arrow:before {
+    content: "\f109";
+}
+.flaticon-right-arrow:before {
+    content: "\f10a";
+}
+.flaticon-whey-protein:before {
+    content: "\f10b";
+}
+.flaticon-whey:before {
+    content: "\f10c";
+}
+.flaticon-vitamin:before {
+    content: "\f10d";
+}
+.flaticon-protein-supplement:before {
+    content: "\f10e";
+}
+.flaticon-vitamin-1:before {
+    content: "\f10f";
+}
+.flaticon-fitness:before {
+    content: "\f110";
+}
+.flaticon-slim-down:before {
+    content: "\f111";
+}
+.flaticon-strong:before {
+    content: "\f112";
+}
+.flaticon-vitamins:before {
+    content: "\f113";
+}
+.flaticon-dumbbell:before {
+    content: "\f114";
+}
+.flaticon-protein:before {
+    content: "\f115";
+}
+.flaticon-whey-protein-1:before {
+    content: "\f116";
+}
+.flaticon-whey-protein-2:before {
+    content: "\f117";
+}
+.flaticon-whey-1:before {
+    content: "\f118";
+}
+.flaticon-proteins:before {
+    content: "\f119";
+}
+.flaticon-supplement:before {
+    content: "\f11a";
+}
+.flaticon-whey-protein-3:before {
+    content: "\f11b";
+}
+.flaticon-strong-1:before {
+    content: "\f11c";
+}
+.flaticon-vitamins-1:before {
+    content: "\f11d";
+}
+.flaticon-protein-1:before {
+    content: "\f11e";
+}
+.flaticon-protein-2:before {
+    content: "\f11f";
+}
+.flaticon-body:before {
+    content: "\f120";
+}
+.flaticon-abs-1:before {
+    content: "\f121";
+}
+.flaticon-view:before {
+    content: "\f122";
+}
+.flaticon-capsule:before {
+    content: "\f123";
+}
+.flaticon-drug:before {
+    content: "\f124";
+}
